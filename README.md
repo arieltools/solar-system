@@ -1,1 +1,1 @@
-# solar-system
+# Simple solar system calculations
